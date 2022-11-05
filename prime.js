@@ -6,6 +6,7 @@ for(let i=1;i<=num;i++){
   }
 }
 if(factor==2){
-console.log(num);
+   console.log(num,"number is prime");
 }else {
-console.log("Not prime")
+   console.log(num,"Not prime")
+}
